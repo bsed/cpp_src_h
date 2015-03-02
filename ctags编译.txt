@@ -1,0 +1,1 @@
+D:\cpp_src>ctags -R --c++-kinds=+p --fields=+iaS --extra=+q.
